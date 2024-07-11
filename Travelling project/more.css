@@ -1,0 +1,54 @@
+body{
+    background-color: black;
+    align-items: center;
+    padding: 20px;
+    margin-left: 5px;
+}
+.place {
+    width: 370px;
+    margin: 20px;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    display: inline-block;
+    align-items: center;
+    
+    
+}
+.place img {
+    width: 100%;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    display: inline;
+}
+.place h2 {
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+.place p {
+    font-size: 16px;
+    line-height: 1.6;
+}
+h1{
+   
+    color: aliceblue;
+    font-style: oblique;
+    font-size: 30px;
+}
+h3{
+    color: aliceblue;
+    font-style: oblique;
+}
+.title{
+    color: black;
+}
+h2{
+    color: rgb(60, 42, 216);
+    margin-left:67%;
+    font-weight: bold;
+}
+.regin{
+    margin-left: 10px;
+    margin-right: 10px;
+}

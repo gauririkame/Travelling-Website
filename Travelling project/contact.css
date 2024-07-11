@@ -1,0 +1,105 @@
+body{
+    background-image: url(img3.jpg);
+    height:100vh;
+    width: 100%;
+    background-position: center;
+    background-size:cover;
+   
+}
+.cont{
+    text-align: center;
+    color: black;
+}
+.sign{
+    text-align: center;
+    width: 100%;
+    max-width: 800px;
+    background-color: aliceblue;
+    margin: 100px auto 20px;
+    padding: 40px 30px 70px;
+    border-radius: 10px;
+}
+
+input {
+    flex: 1;
+    border:1px;
+    outline: 2px;
+    background-color:#c1dadb;
+    color:black;
+    padding: 16px 10px;
+    font-size: 16px;
+    border-radius: 10px;
+    margin-right: 5%;
+    width: 300px;
+}
+button {
+    border: none;
+    outline: none;
+    padding: 18px 25px;
+    background-color:rgb(214, 214, 79);
+    color: black;
+    font-size: 18px;
+    border-radius: 25px;
+    cursor: pointer;
+    font-weight: bold;
+}
+.footer {
+    position: absolute;
+    height: 16px;
+   align-items: center;
+    color: black;
+    
+  
+    
+}
+
+.footer a {
+    float: right;
+    display: inline; 
+    color: black; 
+    font-size: 35px;
+    text-decoration: none; 
+   margin-right:100px;
+   font-weight:bold;
+   
+   
+}ss
+h2{
+    text-align: center;
+    font-weight: bold;
+}
+
+h4{
+    text-align: center;
+}
+
+.nav {
+    position: absolute;
+    height: 16px;
+
+    color: black;
+    margin-left: 65%;
+  
+    
+}
+
+.nav a {
+    float: left;
+    display: block; 
+    color: black; 
+    text-align: center;
+    padding: 14px 16px; 
+    text-decoration: none; 
+   margin-left:20px;
+   font-weight:bold;
+   
+}
+.button1 {
+    background-color:orangered; 
+    color: white; 
+    padding: 10px 20px; 
+    text-decoration: none; 
+    cursor: pointer; 
+    border-radius: 10px;
+  
+}

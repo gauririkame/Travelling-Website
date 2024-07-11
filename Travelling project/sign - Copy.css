@@ -1,0 +1,42 @@
+.sign{
+    text-align: center;
+    width: 100%;
+    max-width: 540px;
+    background-color: aliceblue;
+    margin: 100px auto 20px;
+    padding: 40px 30px 70px;
+    border-radius: 10px;
+}
+
+input {
+    flex: 1;
+    border:1px;
+    outline: none;
+    background-color:cadetblue
+    color: black;
+    padding: 16px 10px;
+    font-size: 16px;
+    border-radius: 10px;
+}
+button {
+    border: none;
+    outline: none;
+    padding: 18px 25px;
+    background-color:blue;
+    color: black;
+    font-size: 18px;
+    border-radius: 25px;
+    cursor: pointer;
+    font-weight: bold;
+}
+h2{
+    color:blue ;
+}
+body{
+    background: linear-gradient(100deg,white,#8af5f5
+    );
+}
+
+
+
+

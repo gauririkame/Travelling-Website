@@ -1,0 +1,73 @@
+h1{
+    color:cadetblue;
+   text-align: center;
+}
+
+
+.todo-app {
+    text-align: center;
+    width: 90%;
+    max-width: 540px;
+    background-color: aliceblue;
+    margin: 100px auto 20px;
+    padding: 40px 30px 70px;
+    border-radius: 10px;
+}
+
+input {
+    flex: 1;
+    border: none;
+    outline: none;
+    background-color: white;
+    padding: 16px 10px;
+    font-size: 16px;
+    border-radius: 10px;
+    width: 300px;
+}
+button {
+    border:none;
+    outline: none;
+    padding: 18px 25px;
+    background-color: red;
+    color: black;
+    font-size: 18px;
+    border-radius: 25px;
+    cursor: pointer;
+    font-weight: bold;
+}
+body{
+    background: linear-gradient(100deg,white,#8af5f5
+    );
+}
+.nav {
+    position: absolute;
+    height: 16px;
+
+    color: black;
+    margin-left: 65%;
+  
+    
+}
+
+.nav a {
+    float: left;
+    display: block; 
+    color: black; 
+    text-align: center;
+    padding: 14px 16px; 
+    text-decoration: none; 
+   margin-left:20px;
+   font-weight:bold;
+   
+}
+
+.button1 {
+    background-color:orangered; 
+    color: white; 
+    padding: 10px 20px; 
+    text-decoration: none; 
+    cursor: pointer; 
+    border-radius: 10px;
+  
+}
+
